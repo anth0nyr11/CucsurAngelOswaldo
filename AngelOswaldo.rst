@@ -22,3 +22,4 @@ https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/propos
 
 Mas sobre seStructuredText
 ------
+Anthony Ramos
